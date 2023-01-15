@@ -18,7 +18,7 @@
     "plugins": ["@typescript-eslint", "import", "prettier"],
     "rules": {
         "import/no-unresolved": "error",
-        "prettier/prettier":["error", { "endOfLine": "auto"],
+        "prettier/prettier":["error", { "endOfLine": "auto"}],
         "no-console": "off"
     },
     "settings": {
